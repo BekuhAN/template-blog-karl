@@ -1,0 +1,291 @@
+{
+  "navigation": [
+    {
+      "id": 1,
+      "name": "Home",
+      "icon": "fa fa-home",
+      "link": "/"
+    },
+    {
+      "id": 2,
+      "name": "About",
+      "icon": "fa fa-user",
+      "link": "/about"
+    },
+    {
+      "id": 3,
+      "name": "Portfolio",
+      "icon": "fa fa-th",
+      "link": "/"
+    },
+    {
+      "id": 4,
+      "name": "Experience",
+      "icon": "fa fa-mortar-board",
+      "link": "/"
+    },
+    {
+      "id": 5,
+      "name": "Services",
+      "icon": "fa fa-briefcase",
+      "link": "/"
+    },
+    {
+      "id": 6,
+      "name": "Pricing",
+      "icon": "fa fa-file-text-o",
+      "link": "/"
+    },
+    {
+      "id": 7,
+      "name": "Blog",
+      "icon": "fa fa-pencil-square-o",
+      "link": "/"
+    },
+    {
+      "id": 8,
+      "name": "Contact",
+      "icon": "fa fa-envelope",
+      "link": "/"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "WordPress"
+    },
+    {
+      "id": 2,
+      "name": "Design"
+    },
+    {
+      "id": 3,
+      "name": "Photography"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": 1,
+      "link": "portfolio-grid-1.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "link": "portfolio-grid-10.jpg",
+      "categoryId": 3
+    },
+    {
+      "id": 3,
+      "link": "portfolio-grid-3.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 4,
+      "link": "portfolio-grid-4.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": 5,
+      "link": "portfolio-grid-5.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": 6,
+      "link": "portfolio-grid-6.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": 7,
+      "link": "portfolio-grid-7.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 8,
+      "link": "portfolio-grid-8.jpg",
+      "categoryId": 3
+    },
+    {
+      "id": 9,
+      "link": "portfolio-grid-9.jpg",
+      "categoryId": 3
+    }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "post": "Web Developer",
+      "company": "Facebook",
+      "date": "23123",
+      "description": "aksdjasjdak jsd jasdkj asd jaskd jaksdjaskldjsakljdl asjdk lasjdlasjdkajs dlasjd aklsdj asdj aksdj aslkdjaslkd jaslkdj aljasldj asdlka"
+    },
+    {
+      "id": 2,
+      "post": "Sys Admin",
+      "company": "КТУИС",
+      "date": "23123",
+      "description": "aksdjasjdak jsd jasdkj asd jaskd jaksdjaskldjsakljdl asjdk lasjdlasjdkajs dlasjd aklsdj asdj aksdj aslkdjaslkd jaslkdj aljasldj asdlka"
+    },
+    {
+      "id": 3,
+      "post": "Front-end Developer",
+      "company": "Google",
+      "date": "23123",
+      "description": "aksdjasjdak jsd jasdkj asd jaskd jaksdjaskldjsakljdl asjdk lasjdlasjdkajs dlasjd aklsdj asdj aksdj aslkdjaslkd jaslkdj aljasldj asdlka"
+    },
+    {
+      "id": 4,
+      "post": "Back-end Developer",
+      "company": "Dodo",
+      "date": "23123",
+      "description": "aksdjasjdak jsd jasdkj asd jaskd jaksdjaskldjsakljdl asjdk lasjdlasjdkajs dlasjd aklsdj asdj aksdj aslkdjaslkd jaslkdj aljasldj asdlka"
+    },
+    {
+      "id": 5,
+      "post": "WordPress Developer",
+      "company": "X5",
+      "date": "23123",
+      "description": "aksdjasjdak jsd jasdkj asd jaskd jaksdjaskldjsakljdl asjdk lasjdlasjdkajs dlasjd aklsdj asdj aksdj aslkdjaslkd jaslkdj aljasldj asdlka"
+    },
+    {
+      "id": 6,
+      "post": "Front-end Developer",
+      "company": "Google",
+      "date": "23123",
+      "description": "aksdjasjdak jsd jasdkj asd jaskd jaksdjaskldjsakljdl asjdk lasjdlasjdkajs dlasjd aklsdj asdj aksdj aslkdjaslkd jaslkdj aljasldj asdlka"
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "speciality": "Web Developer",
+      "company": "Facebook",
+      "date": "23123",
+      "description": "aksdjasjdak jsd jasdkj asd jaskd jaksdjaskldjsakljdl asjdk lasjdlasjdkajs dlasjd aklsdj asdj aksdj aslkdjaslkd jaslkdj aljasldj asdlka"
+    },
+    {
+      "id": 2,
+      "speciality": "Sys Admin",
+      "company": "КТУИС",
+      "date": "23123",
+      "description": "aksdjasjdak jsd jasdkj asd jaskd jaksdjaskldjsakljdl asjdk lasjdlasjdkajs dlasjd aklsdj asdj aksdj aslkdjaslkd jaslkdj aljasldj asdlka"
+    },
+    {
+      "id": 3,
+      "speciality": "Front-end Developer",
+      "company": "Google",
+      "date": "23123",
+      "description": "aksdjasjdak jsd jasdkj asd jaskd jaksdjaskldjsakljdl asjdk lasjdlasjdkajs dlasjd aklsdj asdj aksdj aslkdjaslkd jaslkdj aljasldj asdlka"
+    },
+    {
+      "id": 4,
+      "speciality": "Back-end Developer",
+      "company": "Dodo",
+      "date": "23123",
+      "description": "aksdjasjdak jsd jasdkj asd jaskd jaksdjaskldjsakljdl asjdk lasjdlasjdkajs dlasjd aklsdj asdj aksdj aslkdjaslkd jaslkdj aljasldj asdlka"
+    },
+    {
+      "id": 5,
+      "speciality": "WordPress Developer",
+      "company": "X5",
+      "date": "23123",
+      "description": "aksdjasjdak jsd jasdkj asd jaskd jaksdjaskldjsakljdl asjdk lasjdlasjdkajs dlasjd aklsdj asdj aksdj aslkdjaslkd jaslkdj aljasldj asdlka"
+    },
+    {
+      "id": 6,
+      "speciality": "Front-end Developer",
+      "company": "Google",
+      "date": "23123",
+      "description": "aksdjasjdak jsd jasdkj asd jaskd jaksdjaskldjsakljdl asjdk lasjdlasjdkajs dlasjd aklsdj asdj aksdj aslkdjaslkd jaslkdj aljasldj asdlka"
+    }
+  ],
+  "partners": [
+    {
+      "id": 1,
+      "link": "partner-1.png",
+      "company": "Facebook"
+    },
+    {
+      "id": 2,
+      "link": "partner-2.png",
+      "company": "Facebook"
+    },
+    {
+      "id": 3,
+      "link": "partner-3.png",
+      "company": "Facebook"
+    },
+    {
+      "id": 4,
+      "link": "partner-4.png",
+      "company": "Facebook"
+    },
+    {
+      "id": 5,
+      "link": "partner-5.png",
+      "company": "Facebook"
+    },
+    {
+      "id": 6,
+      "link": "partner-5.png",
+      "company": "Facebook"
+    },
+    {
+      "id": 7,
+      "link": "partner-4.png",
+      "company": "Facebook"
+    },
+    {
+      "id": 8,
+      "link": "partner-3.png",
+      "company": "Facebook"
+    },
+    {
+      "id": 9,
+      "link": "partner-2.png",
+      "company": "Facebook"
+    },
+    {
+      "id": 10,
+      "link": "partner-1.png",
+      "company": "Facebook"
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "name": "Web Design",
+      "icon": "fa fa-desktop",
+      "link": "service-1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Web Development",
+      "icon": "fa fa-window-maximize",
+      "link": "service-2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "SEO-Marketing",
+      "icon": "fa fa-line-chart",
+      "link": "service-3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Responsive Design",
+      "icon": "fa fa-mobile",
+      "link": "service-4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Pixel Perfect",
+      "icon": "fa fa-pencil",
+      "link": "service-5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Quick Support",
+      "icon": "fa fa-user-o",
+      "link": "service-6.jpg"
+    }
+  ]
+}
